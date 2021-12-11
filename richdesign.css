@@ -17,6 +17,9 @@
 body {
     text-decoration: none;
     background-color: #2a2b2b;
+    background-image: url("gangsta.jpg");
+    background-size: cover;
+    background-attachment: fixed;
 
 }
 
@@ -27,7 +30,7 @@ nav {
 }
 
 ul {
-    margin-left: 50px;
+    margin-left: 500px;
     border-bottom: 3px solid #4e4e4e;
     margin-top: -60px;
     height: 40px;
@@ -59,4 +62,97 @@ h1 {
 
 p{
     font-size: 100px;
+}
+
+.rich{
+    color: #8f2821;
+    font-size: 25px;
+    margin-top: 150px;
+    margin-right: 1330px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.rich2{
+    margin-top: px;
+    margin-right: 1200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+}
+.richh1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    width: 1040px;
+}
+.rich3{
+    margin-top: px;
+    margin-right: 1200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+}
+.prich{
+
+        color: white;
+        margin-left: 190px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+        width: 800px;
+}
+.prich{
+
+        color: white;
+        margin-left: 190px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+        width: 800px;
+}
+.richm1{
+    color: #8f2821;
+    font-size: 25px;
+    margin-top: 150px;
+    margin-right: 1130px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.richm2{
+    margin-top: px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    width: 1000px;
+}
+.richd1{
+    color: #8f2821;
+    font-size: 25px;
+    margin-top: 150px;
+    margin-right: 1330px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.richd2{
+    margin-top: px;
+    margin-right: 960px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+}
+.richd3{
+    margin-top: px;
+    margin-right: 1340px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.firstvid{
+    opacity: 0.8;
+    margin-top: 20px;
+    margin-left: 150px;
+    border-radius: 50px;
+
+}
+.prich2{
+
+        color: white;
+        text-decoration: none;
+        margin-left: 190px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+        width: 800px;
 }
